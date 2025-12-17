@@ -45,6 +45,11 @@ I'm an undergraduate student at Anhui University.
 ## 📄  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [auipc指令在NEMU中的执行过程 - Zeeh-Lin](https://www.cnblogs.com/Zeeh-Lin/p/19145313)
+- [UCB-CS70_离散数学_个人笔记：Proofs 和 EECS 的联系及几种常见证明方法 - Zeeh-Lin](https://www.cnblogs.com/Zeeh-Lin/p/19128843)
+- [UCB-CS70_离散数学_个人笔记：至少和至多 - Zeeh-Lin](https://www.cnblogs.com/Zeeh-Lin/p/19128828)
+- [一生一芯中有趣的C语言宏：LIST_FOREACH 链表遍历宏 - Zeeh-Lin](https://www.cnblogs.com/Zeeh-Lin/p/19114180)
+- [远程服务器设置使用本地网络代理 - Zeeh-Lin](https://www.cnblogs.com/Zeeh-Lin/p/19103989)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔥  My Stats
