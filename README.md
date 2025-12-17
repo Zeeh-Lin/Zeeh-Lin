@@ -1,52 +1,24 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi there 👋 I'm Zeeh-Lin</h1>
 
-###
+## 👩‍💻  About Me
 
-<h3 align="left">🔥   My Stats</h3>
+I'm an undergraduate student at Anhui University. 
 
-###
+**What I'm currently working on:**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeeh-Lin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zeeh-Lin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+- Learning **RISC-V** core design and instruction sets.
 
-###
+- Studying the basics of **AI hardware accelerators**.
 
-<img src="https://raw.githubusercontent.com/Zeeh-Lin/Zeeh-Lin/output/snake.svg" alt="Snake animation" />
+- Practicing agile hardware development with **SpinalHDL**.
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-Undergraduate student at Anhui University, majoring in Integrated Circuit Design and Integrated Systems.
-
-###
-
-<h3 align="left">🎓 Education</h3>
-
-###
+## 🎓  Education
 
 **Sep. 2023 - now** : Anhui University
 
 - **Bachelor** of Integrated Circuit Design and Integrated Systems
 
-###
-
-<h3 align="left">📄  Recent Blogs</h3>
-
-###
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+## 🛠️  Language and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -70,4 +42,23 @@ Undergraduate student at Anhui University, majoring in Integrated Circuit Design
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
 </div>
 
-###
+## 📄  Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 🔥  My Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zeeh-Lin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zeeh-Lin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+
+<img src="https://raw.githubusercontent.com/Zeeh-Lin/Zeeh-Lin/output/snake.svg" alt="Snake animation" />
+
+## ✉️  Contact Me
+
+**Email:** [ZihanLin501@163.com](mailto:ZihanLin501@163.com)
+
+**Blog:** [Zeeh-Lin - 博客园(cnblogs.com)](https://www.cnblogs.com/Zeeh-Lin)
