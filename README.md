@@ -45,7 +45,7 @@ I'm an undergraduate student at Anhui University.
 ## 📄  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [告别依赖地狱：Win11 25H2 + WSL2 CentOS 7 搭建 Synopsys EDA 工具链实践 - Zeeh-Lin](https://www.cnblogs.com/Zeeh-Lin/p/19665638)
+- [Win11 25H2 + WSL2 CentOS 7 搭建 Synopsys EDA 工具链实践 - Zeeh-Lin](https://www.cnblogs.com/Zeeh-Lin/p/19665638)
 - [auipc指令在NEMU中的执行过程 - Zeeh-Lin](https://www.cnblogs.com/Zeeh-Lin/p/19145313)
 - [UCB-CS70_离散数学_个人笔记：Proofs 和 EECS 的联系及几种常见证明方法 - Zeeh-Lin](https://www.cnblogs.com/Zeeh-Lin/p/19128843)
 - [UCB-CS70_离散数学_个人笔记：至少和至多 - Zeeh-Lin](https://www.cnblogs.com/Zeeh-Lin/p/19128828)
