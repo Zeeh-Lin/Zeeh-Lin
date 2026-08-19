@@ -1,46 +1,15 @@
-<h1 align="center">Hi there 👋 I'm Zeeh-Lin</h1>
+<h1 align="center">Hi there</h1>
 
-## 👩‍💻  About Me
+## About Me
 
-I'm an undergraduate student at Anhui University. 
+Undergraduate at School of IC, Anhui University.
 
-**What I'm currently working on:**
-
-- Learning **RISC-V** core design and instruction sets.
-
-- Studying the basics of **AI hardware accelerators**.
-
-- Practicing agile hardware development with **SpinalHDL**.
-
-## 🎓  Education
+## Education
 
 **Sep. 2023 - now** : Anhui University
 
 - **Bachelor** of Integrated Circuit Design and Integrated Systems
 
-## 🛠️  Language and Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="scala logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-</div>
 
 ## 📄  Latest Blog Posts
 
